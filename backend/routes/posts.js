@@ -1,8 +1,10 @@
 
 const router = require("express").Router();
-const getPosts = require('../controllers/posts.js')
+const posts = require('../controllers/posts.js')
 
 //localhost:5000/posts
-router.get('/', getPosts)
+router.get('/', posts.getPosts)
+
+router.post('/', posts.createPosts)
 
 module.exports = router
