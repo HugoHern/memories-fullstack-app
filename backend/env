@@ -1,1 +1,1 @@
-MONGO_URI = mongodb+srv://admin:password@cluster0.nc4csgo.mongodb.net/?retryWrites=true&w=majority
+MONGO_URI="mongodb+srv://admin1:C87g0sfC2bDqIjYn@cluster0.f5j2chl.mongodb.net/?retryWrites=true&w=majority"
