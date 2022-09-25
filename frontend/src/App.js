@@ -47,4 +47,4 @@ const App = () => {
 
 export default App;
 
-//javascript mastery 36:58
+//javascript mastery 1:08:39
